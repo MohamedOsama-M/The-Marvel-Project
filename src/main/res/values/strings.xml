@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">The Marvel\'s Order</string>
+
+    // The Movie 1
+    <string name="Movie_1">Iron Man</string>
+    <string name="Date_1"> May 2, 2008</string>
+
+    // The Movie 2
+    <string name="Movie_2">The Incredible Hulk</string>
+    <string name="Date_2"> June 13, 2008</string>
+
+    // The Movie 3
+    <string name="Movie_3">Iron Man 2</string>
+    <string name="Date_3"> May 7, 2010</string>
+
+    // The Movie 4
+    <string name="Movie_4">Thor</string>
+    <string name="Date_4"> May 6, 2011</string>
+
+    // The Movie 5
+    <string name="Movie_5">Captain America: The First Avenger</string>
+    <string name="Date_5"> July 22, 2011</string>
+
+    <!-- The Avengers (2012) -->
+    <string name="Movie_6">The Avengers</string>
+    <string name="Date_6">May 4, 2012</string>
+
+    <!-- Iron Man 3 (2013) -->
+    <string name="Movie_7">Iron Man 3</string>
+    <string name="Date_7">May 3, 2013</string>
+
+    <!-- Thor: The Dark World (2013) -->
+    <string name="Movie_8">Thor: The Dark World</string>
+    <string name="Date_8">November 8, 2013</string>
+
+    <!-- Captain America: The Winter Soldier (2014) -->
+    <string name="Movie_9">Captain America: The Winter Soldier</string>
+    <string name="Date_9">April 4, 2014</string>
+
+    <!-- Guardians of the Galaxy (2014) -->
+    <string name="Movie_10">Guardians of the Galaxy</string>
+    <string name="Date_10">August 1, 2014</string>
+
+    <!-- Avengers: Age of Ultron (2015) -->
+    <string name="Movie_11">Avengers: Age of Ultron</string>
+    <string name="Date_11">May 1, 2015</string>
+
+    <!-- Ant-Man (2015) -->
+    <string name="Movie_12">Ant-Man</string>
+    <string name="Date_12">July 17, 2015</string>
+
+    <!-- Captain America: Civil War (2016) -->
+    <string name="Movie_13">Captain America: Civil War</string>
+    <string name="Date_13">May 6, 2016</string>
+
+    <!-- Doctor Strange (2016) -->
+    <string name="Movie_14">Doctor Strange</string>
+    <string name="Date_14">November 4, 2016</string>
+
+    <!-- Guardians of the Galaxy Vol. 2 (2017) -->
+    <string name="Movie_15">Guardians of the Galaxy Vol. 2</string>
+    <string name="Date_15">May 5, 2017</string>
+
+    <!-- Spider-Man: Homecoming (2017) -->
+    <string name="Movie_16">Spider-Man: Homecoming</string>
+    <string name="Date_16">July 7, 2017</string>
+
+    <!-- Thor: Ragnarok (2017) -->
+    <string name="Movie_17">Thor: Ragnarok</string>
+    <string name="Date_17">November 3, 2017</string>
+
+    <!-- Black Panther (2018) -->
+    <string name="Movie_18">Black Panther</string>
+    <string name="Date_18">February 16, 2018</string>
+
+    <!-- Avengers: Infinity War (2018) -->
+    <string name="Movie_19">Avengers: Infinity War</string>
+    <string name="Date_19">April 27, 2018</string>
+
+    <!-- Ant-Man and The Wasp (2018) -->
+    <string name="Movie_20">Ant-Man and The Wasp</string>
+    <string name="Date_20">July 6, 2018</string>
+
+    <!-- Captain Marvel (2019) -->
+    <string name="Movie_21">Captain Marvel</string>
+    <string name="Date_21">March 8, 2019</string>
+
+    <!-- Avengers: Endgame (2019) -->
+    <string name="Movie_22">Avengers: Endgame</string>
+    <string name="Date_22">April 26, 2019</string>
+
+    <!-- Spider-Man: Far From Home (2019) -->
+    <string name="Movie_23">Spider-Man: Far From Home</string>
+    <string name="Date_23">July 2, 2019</string>
+
+    <!-- Black Widow (2021) -->
+    <string name="Movie_24">Black Widow</string>
+    <string name="Date_24">July 9, 2021</string>
+
+    <!-- Shang-Chi and the Legend of the Ten Rings (2021) -->
+    <string name="Movie_25">Shang-Chi and the Legend of the Ten Rings</string>
+    <string name="Date_25">September 3, 2021</string>
+
+    <!-- Eternals (2021) -->
+    <string name="Movie_26">Eternals</string>
+    <string name="Date_26">November 5, 2021</string>
+
+    <!-- Spider-Man: No Way Home (2021) -->
+    <string name="Movie_27">Spider-Man: No Way Home</string>
+    <string name="Date_27">December 17, 2021</string>
+
+    <!-- Doctor Strange in the Multiverse of Madness (2022) -->
+    <string name="Movie_28">Doctor Strange in the Multiverse of Madness</string>
+    <string name="Date_28">May 6, 2022</string>
+
+    <!-- Thor: Love and Thunder (2022) -->
+    <string name="Movie_29">Thor: Love and Thunder</string>
+    <string name="Date_29">July 8, 2022</string>
+
+    <!-- Black Panther: Wakanda Forever (2022) -->
+    <string name="Movie_30">Black Panther: Wakanda Forever</string>
+    <string name="Date_30">November 11, 2022</string>
+
+    <!-- Ant-Man and The Wasp: Quantumania (2023) -->
+    <string name="Movie_32">Ant-Man and The Wasp: Quantumania</string>
+    <string name="Date_32">February 17, 2023</string>
+
+    <!-- Guardians of the Galaxy Vol. 3 (2023) -->
+    <string name="Movie_33">Guardians of the Galaxy Vol. 3</string>
+    <string name="Date_33">May 5, 2023</string>
+
+    <!-- The Marvels (2023) -->
+    <string name="Movie_31">The Marvels</string>
+    <string name="Date_31">November 10, 2023</string>
+
+
+</resources>
